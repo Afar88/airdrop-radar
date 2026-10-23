@@ -1,3 +1,5 @@
+![Airdrop Radar](assets/banner.png)
+
 # 📡 Airdrop Radar
 
 Find free and low-cost Binance campaigns before everyone else.
