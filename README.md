@@ -1,4 +1,4 @@
-![Airdrop Radar](assets/banner.png)
+![Airdrop Radar](assets/banner.jpg)
 
 # 📡 Airdrop Radar
 
