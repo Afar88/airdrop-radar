@@ -1,10 +1,9 @@
 # Airdrop Radar
 
-Updated 2026-11-01 14:16 UTC
+Updated 2026-11-02 17:04 UTC
 
 | Tag | Date | Campaign |
 | --- | --- | --- |
-| 🟢 FREE | 2026-10-26 | [Word of the Day: Test Your Knowledge on “Start with Binance AI Pro” to Unlock BNB Rewards!](https://www.binance.com/en/support/announcement/detail/294ae769a3ed4b219694dc9ca7803a67) |
 | 🟢 FREE | 2026-10-28 | [Region-Exclusive Referral Rush 2026: Invite Friends to Share $550,000 in USDT Token Vouchers](https://www.binance.com/en/support/announcement/detail/ee5f980bdd13472bbda19930e675d43b) |
 | 🟢 FREE | 2026-10-29 | [CIS & CEE Exclusive: Binance P2P Launches Merchant Referral Program](https://www.binance.com/en/support/announcement/detail/dd153f41ce804419a0e4429a974115ca) |
 | 🟡 CHEAP | 2026-10-29 | [Hold USD1 to Share 120 Million WLFI Tokens, Plus Up to 2.5 Million USD1 for New Holdings (2026-10-30)](https://www.binance.com/en/support/announcement/detail/59f28e09ce8e4f01804aac4699bedaff) |
@@ -15,3 +14,5 @@ Updated 2026-11-01 14:16 UTC
 | ⚪ OTHER | 2026-10-29 | [Region-Exclusive: Invite Friends to Binance and Share a 30,000 USDT Prize Pool](https://www.binance.com/en/support/announcement/detail/b101462171b748ecadc5b9c5b59605bf) |
 | ⚪ OTHER | 2026-10-29 | [Binance P2P Kenya: Earn USDT Rewards with Lightning Instant M-pesa & Instant M-pesa Paybill](https://www.binance.com/en/support/announcement/detail/8466c6c384054e499890d0b1f3883eda) |
 | ⚪ OTHER | 2026-10-29 | [Binance Will List Predict (PREDICT) with Seed Tag Applied](https://www.binance.com/en/support/announcement/detail/a259777ee4104befa3daba5c1eadc7b5) |
+| ⚪ OTHER | 2026-11-02 | [Binance VIP Level Protection Program](https://www.binance.com/en/support/announcement/detail/b3f6a9b7d0a746af9551912893029622) |
+| ⚪ OTHER | 2026-11-02 | [Binance’s Community Appreciation Campaign](https://www.binance.com/en/support/announcement/detail/dad3f7336cd343fd9752c63b21f8d52a) |
