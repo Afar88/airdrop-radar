@@ -1,6 +1,6 @@
 # Airdrop Radar
 
-Updated 2026-11-14 14:08 UTC
+Updated 2026-11-15 14:45 UTC
 
 | Tag | Date | Campaign |
 | --- | --- | --- |
