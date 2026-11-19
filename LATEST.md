@@ -1,6 +1,6 @@
 # Airdrop Radar
 
-Updated 2026-11-18 16:26 UTC
+Updated 2026-11-19 16:33 UTC
 
 | Tag | Date | Campaign |
 | --- | --- | --- |
@@ -9,7 +9,6 @@ Updated 2026-11-18 16:26 UTC
 | 🟢 FREE | 2026-11-17 | [Region Exclusive: Join the Affiliate Referral Festival and Refer for Rewards](https://www.binance.com/en/support/announcement/detail/fb40667e3c714d7f8aa2f1bac2b82aa9) |
 | 🟢 FREE | 2026-11-17 | [Binance Lifestyle Black Friday New User & Referral Campaign: Earn Up to 26 USDT!](https://www.binance.com/en/support/announcement/detail/7bc53180b9cd4a53a809f7066b79eb34) |
 | 🟡 CHEAP | 2026-11-18 | [Hold RLUSD in Any Binance Accounts to Share 600,000 XRP Rewards](https://www.binance.com/en/support/announcement/detail/4c9eba0b412e4b3c908d7462549b2853) |
-| ⚪ OTHER | 2026-11-12 | [Binance Lite Loan Promotion Extended: Enjoy Simple Borrowing with 50% Off Service Fee! (2026-11-13)](https://www.binance.com/en/support/announcement/detail/d55c2b2278034806ae44967fa7a2e62c) |
 | ⚪ OTHER | 2026-11-16 | [Africa Mobile Money Buy Crypto: Unlock a 20% Bonus Tiered APR on USDC Simple Earn Flexible](https://www.binance.com/en/support/announcement/detail/3de1570577714ebea0ef67ab4aad554a) |
 | ⚪ OTHER | 2026-11-17 | [Anthropic IPO xStocks Campaign Available on Binance Wallet](https://www.binance.com/en/support/announcement/detail/81e5668f2453429593002ad515a06b4c) |
 | ⚪ OTHER | 2026-11-17 | [Binance P2P LATAM Exclusive: Earn Up to 25% APR on USDC!](https://www.binance.com/en/support/announcement/detail/dd87c69ba67c4695bdd9836bca73ebb9) |
