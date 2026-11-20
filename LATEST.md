@@ -1,6 +1,6 @@
 # Airdrop Radar
 
-Updated 2026-11-19 16:33 UTC
+Updated 2026-11-20 16:08 UTC
 
 | Tag | Date | Campaign |
 | --- | --- | --- |
@@ -15,3 +15,6 @@ Updated 2026-11-19 16:33 UTC
 | ⚪ OTHER | 2026-11-17 | [Binance Earn Launches BTC Yield APR Boost Promotion with Up to an Additional 2% APR for VIP Users](https://www.binance.com/en/support/announcement/detail/662d66d79a774e18b34d84ab525f563e) |
 | ⚪ OTHER | 2026-11-18 | [Agent ID Hackathon: Build Decentralized Applications (dApps) Around Agent ID to Win 60,000 USDC Worth of Rewards](https://www.binance.com/en/support/announcement/detail/95f5dbe0ea674a48a739b59e046648bf) |
 | ⚪ OTHER | 2026-11-18 | [Binance Will Add 7 bStocks Tokenized Securities as Collateral Asset - 2026-11-18](https://www.binance.com/en/support/announcement/detail/e559d54271c748e080ba4180d453ea1b) |
+| ⚪ OTHER | 2026-11-19 | [Binance Will Add Anthropic (ANTB) bStocks Tokenized Securities as Collateral Asset - 2026-11-19](https://www.binance.com/en/support/announcement/detail/c4a6afb79b32434a88e826b9632242c0) |
+| ⚪ OTHER | 2026-11-20 | [Introducing Binance P2P Academy Latam Program](https://www.binance.com/en/support/announcement/detail/04e8c0f1c4f04121a27b34e55a346dfb) |
+| ⚪ OTHER | 2026-11-20 | [Binance Earn: Enjoy Up to 5% APR with USDC and USDT Flexible Products (2026-11-22)](https://www.binance.com/en/support/announcement/detail/720dd77bcb9c41acafc8cc1c15505b5d) |
